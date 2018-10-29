@@ -10,3 +10,5 @@ set laststatus=2
 let g:lightline = {
       \'colorscheme': 'one',
       \}
+
+nnoremap <C-n> :NERDTreeToggle<CR>
