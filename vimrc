@@ -15,3 +15,5 @@ nnoremap <C-n> :NERDTreeToggle<CR>
 
 set background=dark
 colorscheme material-theme
+
+set clipboard=unnamedplus
