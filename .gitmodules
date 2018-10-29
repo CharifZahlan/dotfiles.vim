@@ -16,3 +16,6 @@
 [submodule "bundle/multiple-cursors"]
 	path = bundle/multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "bundle/vim-material-theme"]
+	path = bundle/vim-material-theme
+	url = https://github.com/jdkanani/vim-material-theme.git
