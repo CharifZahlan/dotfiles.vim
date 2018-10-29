@@ -1,17 +1,6 @@
-let mapleader=" "
-map <leader>s :source ~/.vimrc<CR>
-
 set relativenumber
 set hidden
 set history=100
-
-set nowrap
-set tabstop=2
-set shiftwidth=2
-set smartindent
-set autoindent
-set hlsearch
-set showmatch
 
 nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR>
 nnoremap <Leader><Leader> :e#<CR>
